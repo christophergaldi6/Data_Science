@@ -8,10 +8,16 @@ These are a collection of projects and assignments that were created using Jupyt
 
 ## Project 2
 
-## Assignment 1
+## Homework 1
+### Exploring and Visualizing Data
 
-## Assignment 2
+Assignment using Pandas and Numpy packages utilizing scatterplots, line graphs, and other strategies to expand the data and effectively portraying it. 
 
-## Assignment 3
+## Homework 2
+### Linear Regression Models
 
-## Assignment 5
+## Homework 3
+### Logistic Regression Models
+
+## Homework 5
+### K-Means and Other Clustering Methods
