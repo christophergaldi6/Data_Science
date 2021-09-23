@@ -11,10 +11,11 @@ These are a collection of projects and assignments that were created using Jupyt
 ## Homework 1
 ### Exploring and Visualizing Data
 
-Assignment using Pandas and Numpy packages utilizing scatterplots, line graphs, and other strategies to expand the data and effectively portraying it. 
+Assignment using Pandas and Numpy packages, scatterplots, line graphs, and other strategies to expand the data sets and effectively portraying them to analyze. 
 
 ## Homework 2
 ### Linear Regression Models
+
 
 ## Homework 3
 ### Logistic Regression Models
