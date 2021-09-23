@@ -26,4 +26,4 @@ Assignment that uses Pandas and Numpy libraries to create logistic regression mo
 ## Homework 5
 ### K-Means and Other Clustering Methods
 
-
+Assignment using Pandas and Numpy libraries to create clustering models for the different profficiency levels of programming languages for each person in the data set. I utilized the K-Means method, the Empirical method, and the Hierarchal Clustering method to determine the clustering of each person for the different programming languages and visualized the findings using scatterplots to show the clustering.
