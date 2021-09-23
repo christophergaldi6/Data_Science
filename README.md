@@ -1,10 +1,10 @@
-# Data-Science
-A collection of Data Science projects I have worked on.
+# Data-Science 
+# CPSC 392
+These are a collection projects and assignments that were created using Jupyter Notebooks to utilize data science measures such as Linear Regression, Logistical Regression, K-Means, Clustering, and other methods to analyze data. 
 
 ## FIFA Project
 
 ## Project 1
-A Data Science project created in Jupyter Notebook that looks at 
 
 ## Project 2
 
