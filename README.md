@@ -11,15 +11,19 @@ These are a collection of projects and assignments that were created using Jupyt
 ## Homework 1
 ### Exploring and Visualizing Data
 
-Assignment using Pandas and Numpy packages, scatterplots, line graphs, and other strategies to expand the data sets and effectively portraying them to analyze. 
+Assignment using Pandas and Numpy libraries to expand the data sets using scatterplots, line graphs, and other strategies and effectively portraying them to analyze. 
 
 ## Homework 2
 ### Linear Regression Models
 
-Assignment using Pandas and Numpy Packages to create linear regression models and test the accuracy of them using mean squared error, r2 score, and coefficient evaluation. Through z-scoring and variable manipulation, I was able to use the models to visualize the BMI data to predict body weight. 
+Assignment using Pandas and Numpy libraries to create linear regression models to predict the BMI and test the accuracy of the models using mean squared error, r2 score, and coefficient evaluation. Through z-scoring and variable manipulation, I was able to use the models to visualize the BMI data to predict body weight. 
 
 ## Homework 3
 ### Logistic Regression Models
 
+Assignment that uses Pandas and Numpy libraries to create logistic regression models to predict admissions and test the accuracy of the models. Using z-scoring and variable manipulation, I was able to predict admissions and other variables while also testing if the models were accurate and precise through logarithmic odds and coefficient evaluation and a confusion matrix to visualize. I also looked at the probability and odds of certain students admissions.  
+
 ## Homework 5
 ### K-Means and Other Clustering Methods
+
+
