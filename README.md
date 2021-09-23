@@ -16,6 +16,7 @@ Assignment using Pandas and Numpy packages, scatterplots, line graphs, and other
 ## Homework 2
 ### Linear Regression Models
 
+Assignment using Pandas and Numpy Packages to create linear regression models and test the accuracy of them using mean squared error, r2 score, and coefficient evaluation. Through z-scoring and variable manipulation, I was able to use the models to visualize the BMI data to predict body weight. 
 
 ## Homework 3
 ### Logistic Regression Models
