@@ -8,8 +8,10 @@ These are a collection of projects and assignments that were created using Jupyt
 
 ## Project 2
 
-## Homework 1
+## Assignment 1
 
-## Homework 2
+## Assignment 2
 
-## Homework 3
+## Assignment 3
+
+## Assignment 5
