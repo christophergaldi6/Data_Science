@@ -6,7 +6,7 @@ These are a collection of projects and assignments that were created using Jupyt
 
 ## Diabetes Project #1
 
-## Burgers and Donuts Project #2
+## Food Analysis Project #2
 
 ## Homework 1
 ### Exploring and Visualizing Data
