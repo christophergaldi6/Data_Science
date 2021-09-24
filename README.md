@@ -4,9 +4,9 @@ These are a collection of projects and assignments that were created using Jupyt
 
 ## FIFA Project
 
-## Project 1
+## Diabetes Project #1
 
-## Project 2
+## Burgers and Donuts Project #2
 
 ## Homework 1
 ### Exploring and Visualizing Data
