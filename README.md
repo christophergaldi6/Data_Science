@@ -4,6 +4,9 @@ These are a collection of projects and assignments that were created using Jupyt
 
 ## FIFA Project
 
+A data science project that looked at the varied spread of players, their club, and the nation they play for and the relation between in-game abilities and stats compared to their real-life evaluation. I explored the spread of nations, leagues, clubs, and positions in FIFA 21 and visualized the findings. 
+I created Linear Regression, Ridge Regression, and LASSO Regression models to predict the overall rating of each player given their in-game stats and created a Linear Regression model to predict the real-life evaluation of a player based on in-game stats, age, and wages of the player. As well, I clustered in-game stats using the Hierarchal Clustering method to determine the overall strengths of players and the general positions that they play.
+ 
 ## Diabetes Project #1
 
 A data science project using a Linear Regression model utilizing the K-Fold method to predict BMI of a person and a Logistic Regression model utilizing K-Fold method to predict if a person has been diagnosed with diabetes. 
