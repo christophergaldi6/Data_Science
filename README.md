@@ -11,7 +11,7 @@ I created Linear Regression, Ridge Regression, and LASSO Regression models to pr
 
 A data science project using a Linear Regression model utilizing the K-Fold method to predict BMI of a person and a Logistic Regression model utilizing K-Fold method to predict if a person has been diagnosed with diabetes. 
 
-## Food Analysis Project 
+## Food Analysis Project #2
 A data science project using a Logistical Regression model using a Train-Test Split and K-Nearest Neighbors model to predict if a menu item is a burger or pizza based on dietary information, and looked at the menu of Krispy Kreme to cluster the donuts being sold. I visualized the data and results to analyze the spread and contents of the data and the accuracy of the predictions and used scatterplots, confusion matrices, and clustering techniques to analyze the results of the models.
 
 ## Homework 1
