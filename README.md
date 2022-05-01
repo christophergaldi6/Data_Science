@@ -5,7 +5,7 @@ A collection of data science projects utilizing Linear Regression, Logistical Re
 
 ### FIFA Project
 
-A project looking at the varied spread of players, clubs, and nations represented in-game and the relation between in-game abilities and their real-life evaluation. I utilized Linear Regression, Ridge Regression, and LASSO Regression models to predict the overall rating of each player given their in-game stats. I also fit a Linear Regression model to predict the real-life evaluation of a player based on in-game stats, age, and wages of the player. Also, I clustered in-game stats using a Hierarchal Clustering method to determine the overall strengths of players and the general positions that they play.
+A project looking at the varied spread of players, clubs, and nations represented in-game and the relation between in-game abilities and their real-life evaluation. I utilized Linear Regression, Ridge Regression, and LASSO Regression models to predict the overall rating and real-life evaluation of a player based on in-game stats, age, and wages of the player. Also, I clustered in-game stats using a Hierarchal Clustering method to determine the overall strengths of players and the general positions that they play.
  
 ### Diabetes Project #1
 
