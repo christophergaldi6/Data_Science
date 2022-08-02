@@ -1,6 +1,6 @@
 # Data Science 
 
-A collection of data science projects focusing on the utilization of Linear Regression, Logistical Regression, K-Means, Clustering, and other methods to analyze problems and provide solutions using data in Jupyter Notebooks using Pandas, Numpy, and other Python libraries.
+A collection of projects focusing on the utilization of Linear Regression, Logistical Regression, K-Means, Hierarchal Agglomerative Clustering, and other methods to analyze problems and provide solutions using data in Jupyter Notebooks using Pandas, Numpy, and other Python libraries.
 
 ## Project List
 
